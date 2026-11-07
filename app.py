@@ -10,6 +10,7 @@ activities = [
     "Video Film and Editing",
     "Audience Engagement",
     "Brainstorming and Planning",
+    "Build Portfolios",
 ]
 
 st.title(club_info["name"])
